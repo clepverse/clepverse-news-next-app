@@ -3,7 +3,7 @@ import { FaGithub } from 'react-icons/fa';
 import { FiX } from 'react-icons/fi';
 import styles from './styles.module.scss';
 
-export default function SignInButton() {
+export function SignInButton() {
   function handleSignIn() {
     signIn('github');
   }
