@@ -17,6 +17,7 @@
     "@prismicio/slice-simulator-react": "^0.2.2",
     "@stripe/stripe-js": "^1.29.0",
     "axios": "^0.27.2",
+    "eslint-plugin-react-hooks": "^4.6.0-next-c7e494b55-20220503",
     "faunadb": "^4.5.4",
     "next": "12.1.5",
     "next-auth": "4.3.3",
